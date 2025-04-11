@@ -1,0 +1,14 @@
+c:\Users\LUCASDEFREITASDASILV\Downloads\Exercicio2\bin\Debug\net6.0\ProjetoConsoleExemplo.exe
+C:\Users\LUCASDEFREITASDASILV\Downloads\Exercicio2\bin\Debug\net6.0\ProjetoConsoleExemplo.deps.json
+C:\Users\LUCASDEFREITASDASILV\Downloads\Exercicio2\bin\Debug\net6.0\ProjetoConsoleExemplo.runtimeconfig.json
+c:\Users\LUCASDEFREITASDASILV\Downloads\Exercicio2\bin\Debug\net6.0\ProjetoConsoleExemplo.dll
+c:\Users\LUCASDEFREITASDASILV\Downloads\Exercicio2\bin\Debug\net6.0\ProjetoConsoleExemplo.pdb
+c:\Users\LUCASDEFREITASDASILV\Downloads\Exercicio2\obj\Debug\net6.0\ProjetoConsoleExemplo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LUCASDEFREITASDASILV\Downloads\Exercicio2\obj\Debug\net6.0\ProjetoConsoleExemplo.AssemblyInfoInputs.cache
+c:\Users\LUCASDEFREITASDASILV\Downloads\Exercicio2\obj\Debug\net6.0\ProjetoConsoleExemplo.AssemblyInfo.cs
+c:\Users\LUCASDEFREITASDASILV\Downloads\Exercicio2\obj\Debug\net6.0\ProjetoConsoleExemplo.csproj.CoreCompileInputs.cache
+c:\Users\LUCASDEFREITASDASILV\Downloads\Exercicio2\obj\Debug\net6.0\ProjetoConsoleExemplo.dll
+c:\Users\LUCASDEFREITASDASILV\Downloads\Exercicio2\obj\Debug\net6.0\refint\ProjetoConsoleExemplo.dll
+c:\Users\LUCASDEFREITASDASILV\Downloads\Exercicio2\obj\Debug\net6.0\ProjetoConsoleExemplo.pdb
+C:\Users\LUCASDEFREITASDASILV\Downloads\Exercicio2\obj\Debug\net6.0\ProjetoConsoleExemplo.genruntimeconfig.cache
+C:\Users\LUCASDEFREITASDASILV\Downloads\Exercicio2\obj\Debug\net6.0\ref\ProjetoConsoleExemplo.dll
